@@ -1,0 +1,11 @@
+{
+  "name": "commit-commands",
+  "displayName": "Commit Commands",
+  "version": "1.0.0",
+  "description": "Slash commands for common git workflows: commit, push, and PR creation.",
+  "commands": [
+    "./commands/commit.md",
+    "./commands/push.md",
+    "./commands/create-pr.md"
+  ]
+}

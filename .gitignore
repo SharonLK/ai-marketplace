@@ -80,3 +80,6 @@ coverage/
 
 # Claude Code local settings (machine-specific)
 .claude/settings.local.json
+
+# Repo meta
+STRUCTURE.md

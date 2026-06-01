@@ -1,0 +1,7 @@
+{
+  "name": "code-review-skill",
+  "displayName": "Code Review Skill",
+  "version": "1.0.0",
+  "description": "Teaches Claude to perform structured, thorough code reviews.",
+  "skills": "./skills/"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "claude-code-marketplace",
+  "description": "A marketplace of Claude Code plugins including skills, hooks, MCP servers, agents, and slash commands.",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "id": "code-review-skill",
+      "type": "skill",
+      "path": "plugins/code-review-skill",
+      "description": "A skill that performs thorough code reviews."
+    },
+    {
+      "id": "auto-commit-hook",
+      "type": "hook",
+      "path": "plugins/auto-commit-hook",
+      "description": "Hooks that automate commit workflows on stop and post-tool-use events."
+    },
+    {
+      "id": "github-mcp",
+      "type": "mcp-server",
+      "path": "plugins/github-mcp",
+      "description": "MCP server integration for GitHub with an accompanying skill."
+    },
+    {
+      "id": "pr-review-agent",
+      "type": "agent",
+      "path": "plugins/pr-review-agent",
+      "description": "An agent that reviews pull requests."
+    },
+    {
+      "id": "commit-commands",
+      "type": "commands",
+      "path": "plugins/commit-commands",
+      "description": "Slash commands for commit, push, and PR creation workflows."
+    }
+  ]
+}

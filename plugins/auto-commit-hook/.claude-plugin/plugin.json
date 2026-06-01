@@ -1,0 +1,7 @@
+{
+  "name": "auto-commit-hook",
+  "displayName": "Auto Commit Hook",
+  "version": "1.0.0",
+  "description": "Automates commit-related actions via Stop and PostToolUse hooks.",
+  "hooks": "./hooks/hooks.json"
+}

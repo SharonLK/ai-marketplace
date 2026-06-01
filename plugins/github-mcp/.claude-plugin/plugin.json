@@ -1,0 +1,8 @@
+{
+  "name": "github-mcp",
+  "displayName": "GitHub MCP Server",
+  "version": "1.0.0",
+  "description": "Connects Claude Code to the GitHub API via an MCP server.",
+  "mcpServers": "./mcp-servers/github/config.json",
+  "skills": "./mcp-servers/skills/"
+}
