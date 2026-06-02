@@ -1,0 +1,14 @@
+{
+  "name": "example-plugin",
+  "displayName": "Example Plugin",
+  "version": "1.0.0",
+  "description": "A comprehensive example plugin demonstrating all Claude Code extension options: commands, agents, skills, hooks, and MCP servers.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  },
+  "skills": "./skills/",
+  "commands": [
+    "./commands/example-command.md"
+  ]
+}

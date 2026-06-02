@@ -1,0 +1,10 @@
+{
+  "name": "clangd-lsp",
+  "displayName": "Clangd LSP (C/C++)",
+  "version": "1.0.0",
+  "description": "C/C++ language server integration using clangd for code intelligence, diagnostics, and formatting.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  }
+}

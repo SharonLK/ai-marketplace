@@ -1,0 +1,11 @@
+{
+  "name": "frontend-design",
+  "displayName": "Frontend Design",
+  "version": "1.0.0",
+  "description": "Frontend design skill for generating distinctive, production-grade UI/UX implementations.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  },
+  "skills": "./skills/"
+}

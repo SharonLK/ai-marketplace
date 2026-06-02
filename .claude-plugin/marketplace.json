@@ -41,6 +41,181 @@
       "name": "superpowers",
       "source": "./plugins/superpowers",
       "description": "Activates maximum-effort mode: deep analysis, exhaustive tool use, and expert-quality output."
+    },
+    {
+      "name": "clangd-lsp",
+      "source": "./plugins/clangd-lsp",
+      "description": "C/C++ language server integration using clangd for code intelligence, diagnostics, and formatting."
+    },
+    {
+      "name": "csharp-lsp",
+      "source": "./plugins/csharp-lsp",
+      "description": "C# language server integration for code intelligence and diagnostics."
+    },
+    {
+      "name": "gopls-lsp",
+      "source": "./plugins/gopls-lsp",
+      "description": "Go language server integration using gopls for code intelligence, refactoring, and analysis."
+    },
+    {
+      "name": "jdtls-lsp",
+      "source": "./plugins/jdtls-lsp",
+      "description": "Java language server integration using Eclipse JDT Language Server."
+    },
+    {
+      "name": "kotlin-lsp",
+      "source": "./plugins/kotlin-lsp",
+      "description": "Kotlin language server integration for code intelligence and diagnostics."
+    },
+    {
+      "name": "lua-lsp",
+      "source": "./plugins/lua-lsp",
+      "description": "Lua language server integration for code intelligence and diagnostics."
+    },
+    {
+      "name": "php-lsp",
+      "source": "./plugins/php-lsp",
+      "description": "PHP language server integration for code intelligence and diagnostics."
+    },
+    {
+      "name": "pyright-lsp",
+      "source": "./plugins/pyright-lsp",
+      "description": "Python type-checking and language server integration using Pyright."
+    },
+    {
+      "name": "ruby-lsp",
+      "source": "./plugins/ruby-lsp",
+      "description": "Ruby language server integration for code intelligence and diagnostics."
+    },
+    {
+      "name": "rust-analyzer-lsp",
+      "source": "./plugins/rust-analyzer-lsp",
+      "description": "Rust language server integration using rust-analyzer for code intelligence and type checking."
+    },
+    {
+      "name": "swift-lsp",
+      "source": "./plugins/swift-lsp",
+      "description": "Swift language server integration for code intelligence and diagnostics."
+    },
+    {
+      "name": "typescript-lsp",
+      "source": "./plugins/typescript-lsp",
+      "description": "TypeScript language server integration for type checking and code intelligence."
+    },
+    {
+      "name": "frontend-design",
+      "source": "./plugins/frontend-design",
+      "description": "Frontend design skill for generating distinctive, production-grade UI/UX implementations."
+    },
+    {
+      "name": "session-report",
+      "source": "./plugins/session-report",
+      "description": "Generate a structured HTML session report summarizing Claude's work during the session."
+    },
+    {
+      "name": "claude-code-setup",
+      "source": "./plugins/claude-code-setup",
+      "description": "Analyze codebases and recommend tailored Claude Code automations such as hooks, skills, MCP servers, and subagents."
+    },
+    {
+      "name": "skill-creator",
+      "source": "./plugins/skill-creator",
+      "description": "Create new skills, improve existing skills, and measure skill performance with evals."
+    },
+    {
+      "name": "math-olympiad",
+      "source": "./plugins/math-olympiad",
+      "description": "Solve competition math (IMO, Putnam, USAMO) with adversarial verification that catches what self-verification misses."
+    },
+    {
+      "name": "playground",
+      "source": "./plugins/playground",
+      "description": "Creates interactive HTML playgrounds — self-contained single-file explorers with visual controls and live preview."
+    },
+    {
+      "name": "mcp-server-dev",
+      "source": "./plugins/mcp-server-dev",
+      "description": "Skills for designing and building MCP servers that work seamlessly with Claude."
+    },
+    {
+      "name": "code-review",
+      "source": "./plugins/code-review",
+      "description": "Automated code review for pull requests using multiple specialized agents with confidence-based scoring."
+    },
+    {
+      "name": "mcp-tunnels",
+      "source": "./plugins/mcp-tunnels",
+      "description": "Connect Claude to a private MCP server through an Anthropic MCP tunnel using Docker Compose."
+    },
+    {
+      "name": "security-guidance",
+      "source": "./plugins/security-guidance",
+      "description": "Security review for Claude-generated code with pattern-based warnings, LLM diff review, and agentic commit reviewer."
+    },
+    {
+      "name": "explanatory-output-style",
+      "source": "./plugins/explanatory-output-style",
+      "description": "Adds educational insights about implementation choices and codebase patterns via a SessionStart hook."
+    },
+    {
+      "name": "learning-output-style",
+      "source": "./plugins/learning-output-style",
+      "description": "Interactive learning mode that requests meaningful code contributions at decision points via a SessionStart hook."
+    },
+    {
+      "name": "ralph-loop",
+      "source": "./plugins/ralph-loop",
+      "description": "Continuous self-referential AI loops for interactive iterative development using the Ralph Wiggum technique."
+    },
+    {
+      "name": "cwc-makers",
+      "source": "./plugins/cwc-makers",
+      "description": "Seamless onboarding for the Code-with-Claude Makers Cardputer: flash firmware and install the Claude Buddy app bundle."
+    },
+    {
+      "name": "claude-md-management",
+      "source": "./plugins/claude-md-management",
+      "description": "Tools to maintain and improve CLAUDE.md files — audit quality, capture session learnings, and keep project memory current."
+    },
+    {
+      "name": "feature-dev",
+      "source": "./plugins/feature-dev",
+      "description": "Comprehensive feature development workflow with specialized agents for codebase exploration, architecture design, and quality review."
+    },
+    {
+      "name": "code-modernization",
+      "source": "./plugins/code-modernization",
+      "description": "Modernize legacy codebases (COBOL, legacy Java/C++, monolith web apps) with a structured assess → transform → harden workflow."
+    },
+    {
+      "name": "agent-sdk-dev",
+      "source": "./plugins/agent-sdk-dev",
+      "description": "Create and verify Claude Agent SDK applications in Python and TypeScript."
+    },
+    {
+      "name": "plugin-dev",
+      "source": "./plugins/plugin-dev",
+      "description": "Plugin development toolkit with skills for creating agents, commands, hooks, MCP integrations, and plugin structure guidance."
+    },
+    {
+      "name": "pr-review-toolkit",
+      "source": "./plugins/pr-review-toolkit",
+      "description": "Comprehensive PR review agents specializing in comments, tests, error handling, type design, code quality, and simplification."
+    },
+    {
+      "name": "hookify",
+      "source": "./plugins/hookify",
+      "description": "Easily create and manage hooks to prevent unwanted behaviors by analyzing conversation patterns."
+    },
+    {
+      "name": "code-simplifier",
+      "source": "./plugins/code-simplifier",
+      "description": "Agent that simplifies and refines code for clarity, consistency, and maintainability while preserving functionality."
+    },
+    {
+      "name": "example-plugin",
+      "source": "./plugins/example-plugin",
+      "description": "A comprehensive example plugin demonstrating all Claude Code extension options: commands, agents, skills, hooks, and MCP servers."
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-dev",
+  "displayName": "MCP Server Dev",
+  "version": "1.0.0",
+  "description": "Skills for designing and building MCP servers that work seamlessly with Claude.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  },
+  "skills": "./skills/"
+}

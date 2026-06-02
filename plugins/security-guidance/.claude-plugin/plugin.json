@@ -1,0 +1,11 @@
+{
+  "name": "security-guidance",
+  "displayName": "Security Guidance",
+  "version": "2.0.2",
+  "description": "Security review for Claude-generated code with pattern-based warnings, LLM diff review, and agentic commit reviewer.",
+  "author": {
+    "name": "David Dworken",
+    "email": "dworken@anthropic.com"
+  },
+  "hooks": "./hooks/hooks.json"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "csharp-lsp",
+  "displayName": "C# LSP",
+  "version": "1.0.0",
+  "description": "C# language server integration for code intelligence and diagnostics.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "code-modernization",
+  "displayName": "Code Modernization",
+  "version": "1.0.0",
+  "description": "Modernize legacy codebases (COBOL, legacy Java/C++, monolith web apps) with a structured assess → transform → harden workflow.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  },
+  "agents": [
+    "./agents/legacy-analyst.md",
+    "./agents/business-rules-extractor.md",
+    "./agents/architecture-critic.md",
+    "./agents/security-auditor.md",
+    "./agents/test-engineer.md"
+  ],
+  "commands": [
+    "./commands/modernize-assess.md",
+    "./commands/modernize-map.md",
+    "./commands/modernize-extract-rules.md",
+    "./commands/modernize-brief.md",
+    "./commands/modernize-reimagine.md",
+    "./commands/modernize-transform.md",
+    "./commands/modernize-harden.md"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gopls-lsp",
+  "displayName": "gopls LSP (Go)",
+  "version": "1.0.0",
+  "description": "Go language server integration using gopls for code intelligence, refactoring, and analysis.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  }
+}

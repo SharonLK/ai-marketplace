@@ -1,0 +1,10 @@
+{
+  "name": "lua-lsp",
+  "displayName": "Lua LSP",
+  "version": "1.0.0",
+  "description": "Lua language server integration for code intelligence and diagnostics.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  }
+}

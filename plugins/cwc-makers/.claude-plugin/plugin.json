@@ -1,0 +1,14 @@
+{
+  "name": "cwc-makers",
+  "displayName": "CwC Makers (Cardputer)",
+  "version": "1.0.0",
+  "description": "Seamless onboarding for the Code-with-Claude Makers Cardputer: flash firmware and install the Claude Buddy app bundle.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  },
+  "skills": "./skills/",
+  "commands": [
+    "./commands/maker-setup.md"
+  ]
+}

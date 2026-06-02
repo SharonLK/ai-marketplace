@@ -1,0 +1,10 @@
+{
+  "name": "rust-analyzer-lsp",
+  "displayName": "rust-analyzer LSP (Rust)",
+  "version": "1.0.0",
+  "description": "Rust language server integration using rust-analyzer for code intelligence and type checking.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  }
+}

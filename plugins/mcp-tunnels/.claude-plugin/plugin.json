@@ -1,0 +1,13 @@
+{
+  "name": "mcp-tunnels",
+  "displayName": "MCP Tunnels",
+  "version": "1.0.0",
+  "description": "Connect Claude to a private MCP server through an Anthropic MCP tunnel using Docker Compose.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  },
+  "commands": [
+    "./commands/create-docker-mcp-tunnel.md"
+  ]
+}

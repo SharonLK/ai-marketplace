@@ -1,0 +1,10 @@
+{
+  "name": "typescript-lsp",
+  "displayName": "TypeScript LSP",
+  "version": "1.0.0",
+  "description": "TypeScript language server integration for type checking and code intelligence.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  }
+}

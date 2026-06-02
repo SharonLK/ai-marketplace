@@ -1,0 +1,10 @@
+{
+  "name": "jdtls-lsp",
+  "displayName": "JDT LS (Java)",
+  "version": "1.0.0",
+  "description": "Java language server integration using Eclipse JDT Language Server.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pyright-lsp",
+  "displayName": "Pyright LSP (Python)",
+  "version": "1.0.0",
+  "description": "Python type-checking and language server integration using Pyright.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  }
+}

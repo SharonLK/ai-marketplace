@@ -1,0 +1,21 @@
+{
+  "name": "hookify",
+  "displayName": "Hookify",
+  "version": "1.0.0",
+  "description": "Easily create and manage hooks to prevent unwanted behaviors by analyzing conversation patterns.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  },
+  "hooks": "./hooks/hooks.json",
+  "agents": [
+    "./agents/hookify.md"
+  ],
+  "skills": "./skills/",
+  "commands": [
+    "./commands/hookify.md",
+    "./commands/hookify-list.md",
+    "./commands/hookify-configure.md",
+    "./commands/hookify-help.md"
+  ]
+}

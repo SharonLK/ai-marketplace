@@ -1,0 +1,11 @@
+{
+  "name": "playground",
+  "displayName": "Playground",
+  "version": "1.0.0",
+  "description": "Creates interactive HTML playgrounds — self-contained single-file explorers with visual controls and live preview.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  },
+  "skills": "./skills/"
+}

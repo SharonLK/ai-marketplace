@@ -1,0 +1,11 @@
+{
+  "name": "explanatory-output-style",
+  "displayName": "Explanatory Output Style",
+  "version": "1.0.0",
+  "description": "Adds educational insights about implementation choices and codebase patterns via a SessionStart hook.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  },
+  "hooks": "./hooks/hooks.json"
+}

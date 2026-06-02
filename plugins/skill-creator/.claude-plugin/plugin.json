@@ -1,0 +1,11 @@
+{
+  "name": "skill-creator",
+  "displayName": "Skill Creator",
+  "version": "1.0.0",
+  "description": "Create new skills, improve existing skills, and measure skill performance with evals.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  },
+  "skills": "./skills/"
+}

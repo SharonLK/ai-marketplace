@@ -1,0 +1,11 @@
+{
+  "name": "session-report",
+  "displayName": "Session Report",
+  "version": "1.0.0",
+  "description": "Generate a structured HTML session report summarizing Claude's work during the session.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  },
+  "skills": "./skills/"
+}

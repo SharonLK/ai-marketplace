@@ -1,0 +1,15 @@
+{
+  "name": "ralph-loop",
+  "displayName": "Ralph Loop",
+  "version": "1.0.0",
+  "description": "Continuous self-referential AI loops for interactive iterative development using the Ralph Wiggum technique.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  },
+  "hooks": "./hooks/hooks.json",
+  "commands": [
+    "./commands/ralph-loop.md",
+    "./commands/cancel-ralph.md"
+  ]
+}

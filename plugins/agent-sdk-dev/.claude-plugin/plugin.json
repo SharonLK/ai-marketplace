@@ -1,0 +1,17 @@
+{
+  "name": "agent-sdk-dev",
+  "displayName": "Agent SDK Dev",
+  "version": "1.0.0",
+  "description": "Create and verify Claude Agent SDK applications in Python and TypeScript.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  },
+  "agents": [
+    "./agents/agent-sdk-verifier-py.md",
+    "./agents/agent-sdk-verifier-ts.md"
+  ],
+  "commands": [
+    "./commands/new-sdk-app.md"
+  ]
+}

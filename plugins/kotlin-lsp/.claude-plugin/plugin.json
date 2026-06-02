@@ -1,0 +1,10 @@
+{
+  "name": "kotlin-lsp",
+  "displayName": "Kotlin LSP",
+  "version": "1.0.0",
+  "description": "Kotlin language server integration for code intelligence and diagnostics.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  }
+}
