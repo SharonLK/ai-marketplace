@@ -8,33 +8,28 @@
   },
   "plugins": [
     {
-      "id": "code-review-skill",
-      "type": "skill",
-      "path": "plugins/code-review-skill",
+      "name": "code-review-skill",
+      "source": "./plugins/code-review-skill",
       "description": "A skill that performs thorough code reviews."
     },
     {
-      "id": "auto-commit-hook",
-      "type": "hook",
-      "path": "plugins/auto-commit-hook",
+      "name": "auto-commit-hook",
+      "source": "./plugins/auto-commit-hook",
       "description": "Hooks that automate commit workflows on stop and post-tool-use events."
     },
     {
-      "id": "github-mcp",
-      "type": "mcp-server",
-      "path": "plugins/github-mcp",
+      "name": "github-mcp",
+      "source": "./plugins/github-mcp",
       "description": "MCP server integration for GitHub with an accompanying skill."
     },
     {
-      "id": "pr-review-agent",
-      "type": "agent",
-      "path": "plugins/pr-review-agent",
+      "name": "pr-review-agent",
+      "source": "./plugins/pr-review-agent",
       "description": "An agent that reviews pull requests."
     },
     {
-      "id": "commit-commands",
-      "type": "commands",
-      "path": "plugins/commit-commands",
+      "name": "commit-commands",
+      "source": "./plugins/commit-commands",
       "description": "Slash commands for commit, push, and PR creation workflows."
     }
   ]
