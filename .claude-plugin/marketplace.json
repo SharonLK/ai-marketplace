@@ -1,5 +1,5 @@
 {
-  "name": "claude-code-marketplace",
+  "name": "sharonlk-marketplace",
   "description": "A marketplace of Claude Code plugins including skills, hooks, MCP servers, agents, and slash commands.",
   "version": "1.0.0",
   "owner": {
