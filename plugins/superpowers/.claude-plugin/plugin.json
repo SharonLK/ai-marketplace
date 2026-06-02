@@ -1,0 +1,7 @@
+{
+  "name": "superpowers",
+  "displayName": "Superpowers",
+  "version": "1.0.0",
+  "description": "Activates maximum-effort mode: deep analysis, exhaustive tool use, and expert-quality output for hard problems.",
+  "skills": "./skills/"
+}

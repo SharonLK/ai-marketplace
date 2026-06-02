@@ -1,0 +1,7 @@
+{
+  "name": "grill-me",
+  "displayName": "Grill Me",
+  "version": "1.0.0",
+  "description": "Quizzes the user on any topic with progressively harder questions, instant feedback, and a final score.",
+  "skills": "./skills/"
+}

@@ -31,6 +31,16 @@
       "name": "commit-commands",
       "source": "./plugins/commit-commands",
       "description": "Slash commands for commit, push, and PR creation workflows."
+    },
+    {
+      "name": "grill-me",
+      "source": "./plugins/grill-me",
+      "description": "Quizzes the user on any topic with progressively harder questions and a final score."
+    },
+    {
+      "name": "superpowers",
+      "source": "./plugins/superpowers",
+      "description": "Activates maximum-effort mode: deep analysis, exhaustive tool use, and expert-quality output."
     }
   ]
 }
